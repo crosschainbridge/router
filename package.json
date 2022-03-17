@@ -1,0 +1,32 @@
+{
+  "name": "@crosschainbridge/router",
+  "description": "Public smart contract interface for www.crosschainbridge.org",
+  "version": "1.0.0",
+  "files": [
+    "../contracts/v2/interfaces/ICrossChainBridgeRouter.sol.sol",
+    "../artifacts/contracts/v2/CrossChainBridgeRouter.sol/CrossChainBridgeRouter.json"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crosschainbridge/router.git"
+  },
+  "main": "index.js",
+  "keywords": [
+    "solidity",
+    "ethereum",
+    "smart",
+    "contracts",
+    "router",
+    "bridge",
+    "crosschainbridge",
+    "crosschainbridgerouter"
+  ],
+  "author": "CrossChainBridge <info@crosschainbridge.org>",
+  "bugs": {
+    "url": "https://github.com/crosschainbridge/router/issues"
+  },
+  "homepage": "https://www.crosschainbridge.org",
+  "devDependencies": {
+  }
+}
